@@ -1,9 +1,11 @@
 # More Fit Images plugin for Craft CMS 3.4
 
-Fixes a bug in Craft 3.4 where thumbs in the Control Panel were cropped instead of fitted.
+Fixes a bug in Craft 3.4 where thumbs in the Control Panel were cropped instead of fitted, see
+[https://github.com/craftcms/cms/issues/5515](https://github.com/craftcms/cms/issues/5515) and
+[https://github.com/craftcms/cms/issues/5518](https://github.com/craftcms/cms/issues/5518).
 
-_This is only a stop-gap solution until Pixel & Tonic fixes the bug, which is
-scheduled for Craft 3.5._
+**This is only a stop-gap solution until Pixel & Tonic fixes the bug, which is
+scheduled for Craft 3.5.**
 
 ## Requirements
 
