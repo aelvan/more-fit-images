@@ -1,0 +1,29 @@
+.element.large.hasthumb .elementthumb {
+    border-radius: 0;
+    background: #f6faff;
+}
+
+.element.sel .elementthumb, 
+li.sel .element .elementthumb {
+    background: #cdd8e4 !important;
+}
+ 
+.element.large.hasthumb .elementthumb img {
+    width: auto !important;
+    height: auto !important;
+}
+
+.element.small.hasthumb .elementthumb, 
+.element.large:not(.hasthumb).hasthumb .elementthumb {
+    border-radius: 0;
+}
+
+.element.hasthumb .elementthumb img {
+    width: auto !important;
+    height: auto !important;
+}
+
+body.ltr .element.small.hasthumb, 
+body.ltr .element.large:not(.hasthumb).hasthumb {
+    padding-left: 42px;
+}

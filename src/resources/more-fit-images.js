@@ -1,0 +1,3 @@
+(function () {
+    // Viva La Résistance!
+})()
